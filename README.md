@@ -12,7 +12,7 @@
 	5- Create Azure SQL Database 
 	6- Build A web Application using Visual Studio with SQL database 
 	7- Configuration of Connection string to access data from database in web app 
-        8-Publish a web app in web app
+        8- Publish a web app in web app
 # SQL Query 
 		CREATE TABLE Products
 		(
